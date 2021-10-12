@@ -11,6 +11,6 @@ level in order to have a more compact file for test purposes.
 To adjust these, you need to tweek the `MIN_ZOOM`, `MAX_ZOOM` and `BBOX`
 parameters in the `.env` file in the `openmaptiles` repo.
 (When changing the `BBOX` for the first time, you may need to delete an
-`<area>.box` file in `openmaptiles/data`.)
+`<area>.bbox` file in `openmaptiles/data`.)
 For further reference, check the [openmaptiles
 QUICKSTART](https://github.com/openmaptiles/openmaptiles/blob/master/QUICKSTART.md).
