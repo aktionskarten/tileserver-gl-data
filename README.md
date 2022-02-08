@@ -2,7 +2,7 @@
 
 To generate the tiles:
 
-* Check out the [openmaptiles repo](https://github.com/openmaptiles)
+* Check out the [openmaptiles repo](https://github.com/openmaptiles/openmaptiles)
 * Enter the repo and run the script `./quickstart.sh berlin`
 
 Currently, we have restricted the tiles to a small area and a particular zoom
